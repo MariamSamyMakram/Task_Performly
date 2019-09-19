@@ -1,0 +1,29 @@
+.contact{
+    background-color: #3a3e64;
+    padding: 60px 0;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+}
+.contact h2{font-size: 17px;}
+.contact a{
+    font-size: 16px;
+    text-align: justify;
+    color: #9698ac;}
+.contact ul{
+    list-style: none;
+    padding: 0;
+}
+.contact ul li{
+    display: inline;
+}
+.contact ul li i{
+    font-size: 17px;
+    color: #fff;
+    padding: 10px 12px;
+    border: 0.5px solid #c6cacc;
+}
+.contact ul li i:hover{
+    color: 9698ac;
+    border-color: 9698ac;
+}
+.contact p{    font-size: 15px;color: #9698ac;}

@@ -1,0 +1,15 @@
+.Features{
+    padding:100px 0 100px 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.Features i{
+    font-size: 51px;
+    color: #de4c4c;
+}
+.Features h1{
+    font-size: 19px;
+    font-weight: bold;
+    padding: 27px 0;
+}
+.Features p{text-align: justify;}
+
