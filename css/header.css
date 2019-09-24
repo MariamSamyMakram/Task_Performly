@@ -26,12 +26,12 @@
     padding-top: 170px;
     color: #fff;
     font-weight: bold;
-/*    position: relative;*/
+    position: relative;
     animation: H1 2s 1;
 }
 @keyframes H1{
-    from{margin-left:30px;}
-    to{margin-left: 0px;}
+    from{top:30px;}
+    to{top: 0px;}
     
 }
 
@@ -39,12 +39,12 @@
     font-size: 18px;
     color: #fff;
     margin-bottom: 61px;
-/*    position: relative;*/
+    position: relative;
     animation: paragh 2s 1;
 }
 @keyframes paragh{
-    from{margin-right:30px; }
-    to{margin-right: 0;}
+    from{bottom:30px; }
+    to{bottom: 0;}
 }
 .Header button{    
     padding: 8px 40px;
