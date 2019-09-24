@@ -28,8 +28,8 @@
  
 @media (max-width: 575.98px){
     .sectionNavbar .navbar-nav{text-align: center;}
+    .sectionNavbar .navbar-collapse{background-color: #fff;    padding: 49px;}
     .sectionNavbar li:hover{background-color: #ddd;border-radius: 22px;}
-    .sectionNavbar .collapse.show{background-color: #fff;    padding: 49px;}
     .sectionNavbar .navbar-light .navbar-nav .nav-link {color: #000;}
     
 }
@@ -38,7 +38,7 @@
 @media (min-width: 576px) and (max-width: 767.98px) { 
     .sectionNavbar .navbar-nav{text-align: center;}
     .sectionNavbar li:hover{background-color: #ddd;border-radius: 22px;}
-    .sectionNavbar .collapse.show{background-color: #fff;    padding: 49px;}
+    .sectionNavbar .navbar-collapse{background-color: #fff;    padding: 49px;}
     .sectionNavbar .navbar-light .navbar-nav .nav-link {color: #000;}
 }
 
@@ -46,7 +46,7 @@
 @media (min-width: 768px) and (max-width: 991.98px) {
     .sectionNavbar .navbar-nav{text-align: center;}
     .sectionNavbar li:hover{background-color: #ddd;border-radius: 22px;}
-    .sectionNavbar .collapse.show{background-color: #fff;    padding: 49px;}
+    .sectionNavbar .navbar-collapse{background-color: #fff;    padding: 49px;}
     .sectionNavbar .navbar-light .navbar-nav .nav-link {color: #000;}
 }
 
