@@ -9,7 +9,15 @@
     padding-left: 0;
     border: 0.5px solid #fff;
 }
-.Works .slide{position: relative;}
+.Works .slide{
+    position: relative;
+    animation: card 2s 1;
+    animation-delay: 3s
+}
+@keyframes card{
+    from{transform: scale(0);}
+    to{transform: scale(1);}
+}
 .overlay_image{
     position: absolute;
     top: 0;

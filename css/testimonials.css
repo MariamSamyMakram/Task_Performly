@@ -28,6 +28,7 @@
 
 @media (max-width: 575.98px){
     .Testimonials .testimonial-slider .item q {font-size: 19px;}
+    .Testimonials .testimonial-slider .item {padding: 75px 24px 0px 18px;}
 }
 
 /* Small devices (landscape phones, 576px and up)*/
