@@ -70,7 +70,6 @@
 /* Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) and (max-width: 767.98px) {   
     .Header .content { padding: 0;}
-    .Header .content h1{color: forestgreen }
     .Header button {padding: 7px;}
     .Header .content h1 {font-size: 38px;}
     .Header .content p {font-size: 14px;}
