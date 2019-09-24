@@ -27,8 +27,8 @@
 .fixed-span{color:#9c9c9c!important;}
  
 @media (max-width: 575.98px){
-    .sectionNavbar .navbar-nav{text-align: center;}
-    .sectionNavbar .navbar-collapse{background-color: #fff;    padding: 49px;}
+    .sectionNavbar .navbar-nav{text-align: center;    padding: 40px;}
+    .sectionNavbar .navbar-collapse{background-color: #fff;}
     .sectionNavbar li:hover{background-color: #ddd;border-radius: 22px;}
     .sectionNavbar .navbar-light .navbar-nav .nav-link {color: #000;}
     
@@ -36,17 +36,17 @@
 
 /* Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) and (max-width: 767.98px) { 
-    .sectionNavbar .navbar-nav{text-align: center;}
+    .sectionNavbar .navbar-nav{text-align: center;    padding: 40px;}
     .sectionNavbar li:hover{background-color: #ddd;border-radius: 22px;}
-    .sectionNavbar .navbar-collapse{background-color: #fff;    padding: 49px;}
+    .sectionNavbar .navbar-collapse{background-color: #fff;}
     .sectionNavbar .navbar-light .navbar-nav .nav-link {color: #000;}
 }
 
 /* Medium devices (tablets, 768px and up)*/
 @media (min-width: 768px) and (max-width: 991.98px) {
-    .sectionNavbar .navbar-nav{text-align: center;}
+    .sectionNavbar .navbar-nav{text-align: center;     padding: 40px;}
     .sectionNavbar li:hover{background-color: #ddd;border-radius: 22px;}
-    .sectionNavbar .navbar-collapse{background-color: #fff;    padding: 49px;}
+    .sectionNavbar .navbar-collapse{background-color: #fff;}
     .sectionNavbar .navbar-light .navbar-nav .nav-link {color: #000;}
 }
 
